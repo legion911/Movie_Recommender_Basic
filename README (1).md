@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommendation System 
 ## About
 
 In this incredibly busy society, people are constantly pressed for time. Everyone prefers making decisions from options that are accessible with a single click when it's time for a little break to clear their minds. What could be better than a user being suggested their favourite song to play or a quick movie to view while taking a break? It's true that recommendation engines also understand your viewing habits and could provide content suggestions based on the time of day or your habits. Without having to hunt through the extensive content catalogue, the recommender system enables users to select their favourite films fast on the home screen.
